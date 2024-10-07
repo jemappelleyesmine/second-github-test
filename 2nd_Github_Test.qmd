@@ -8,7 +8,7 @@ format: html
 
 Hello! This is Yesmine speaking. Welcome to my second github test.
 
-## Displaying Code
+## Trying to display code
 
 ```{r}
 print("hello")
